@@ -1,0 +1,153 @@
+Python
+
+Python is a high-level, easy-to-learn programming language created by Guido van Rossum in 1991. It is widely used for software development, web applications, automation, data science, Artificial Intelligence (AI), and Machine Learning (ML).
+
+Features of Python
+Simple and readable syntax
+Easy to learn and use
+Open-source and free
+Cross-platform (Windows, Linux, macOS)
+Large collection of libraries and frameworks
+Supports Object-Oriented Programming (OOP)
+Example Python Program
+print("Hello, World!")
+Variables
+name = "Siddharth"
+age = 20
+
+print(name)
+print(age)
+Conditional Statements
+marks = 85
+
+if marks >= 80:
+    print("Grade A")
+else:
+    print("Grade B")
+Loops
+for i in range(5):
+    print(i)
+Functions
+def add(a, b):
+    return a + b
+
+print(add(10, 20))
+Artificial Intelligence (AI)
+
+Artificial Intelligence (AI) is a branch of computer science that enables machines to mimic human intelligence and perform tasks such as learning, reasoning, problem-solving, and decision-making.
+
+Types of AI
+1. Narrow AI
+
+Designed for specific tasks.
+Examples:
+
+Google Assistant
+Siri
+Chatbots
+2. General AI
+
+AI that can perform any intellectual task a human can do. This remains a research goal.
+
+3. Super AI
+
+Hypothetical AI that would surpass human intelligence.
+
+Applications of AI
+Virtual Assistants
+Self-driving cars
+Healthcare diagnosis
+Fraud detection
+Recommendation systems
+Robotics
+Machine Learning (ML)
+
+Machine Learning (ML) is a subset of AI that allows computers to learn from data and improve their performance without being explicitly programmed.
+
+How ML Works
+Collect Data
+Clean and Prepare Data
+Train Model
+Test Model
+Make Predictions
+ML Workflow
+6
+Types of Machine Learning
+1. Supervised Learning
+
+The model learns using labeled data.
+
+Examples:
+
+Email Spam Detection
+House Price Prediction
+Document Classification
+
+Algorithms:
+
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+2. Unsupervised Learning
+
+The model finds patterns in unlabeled data.
+
+Examples:
+
+Customer Segmentation
+Market Basket Analysis
+
+Algorithms:
+
+K-Means Clustering
+Hierarchical Clustering
+3. Reinforcement Learning
+
+The model learns through rewards and penalties.
+
+Examples:
+
+Game Playing
+Robotics
+Autonomous Vehicles
+Relationship Between Python, AI, and ML
+Computer Science
+      │
+      ├── Python (Programming Language)
+      │
+      └── Artificial Intelligence (AI)
+               │
+               └── Machine Learning (ML)
+
+Python is the most popular language for AI and ML because of powerful libraries such as:
+
+NumPy – Numerical calculations
+Pandas – Data processing
+Matplotlib – Data visualization
+Scikit-learn – ML algorithms
+TensorFlow – AI and Deep Learning
+PyTorch – Neural Networks
+Career Opportunities
+
+After learning Python and AI/ML, you can become:
+
+Software Developer
+Python Developer
+AI Engineer
+Machine Learning Engineer
+Data Scientist
+Data Analyst
+Research Engineer
+Learning Roadmap
+Learn Python Basics
+Learn Data Structures and OOP
+Learn NumPy and Pandas
+Learn Data Visualization
+Learn Statistics and Mathematics
+Learn Machine Learning with Scikit-learn
+Learn Deep Learning with TensorFlow/PyTorch
+Build Projects (Chatbot, Document Classifier, Recommendation System)
+Learn Deployment and Cloud Technologies
+
+Since you're a Computer Science student, a good beginner-to-intermediate project is an AI-Powered Document Classifier using Python, Pandas, NLTK, and Scikit-learn—the same type of project you've been exploring recently.

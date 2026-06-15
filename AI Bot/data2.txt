@@ -1,0 +1,200 @@
+What is Programming?
+
+Programming is the process of writing instructions that tell a computer what to do. These instructions are written in a programming language such as Python, Java, C++, JavaScript, or C.
+
+Just as humans use languages to communicate with each other, programmers use programming languages to communicate with computers.
+
+Why is Programming Important?
+
+Programming is used to create:
+
+Websites
+Mobile applications
+Desktop software
+Games
+Artificial Intelligence (AI)
+Machine Learning systems
+Operating Systems
+Databases
+Automation tools
+
+Examples:
+
+Instagram, WhatsApp, and YouTube are built using programming.
+AI assistants like ChatGPT are created using programming and AI technologies.
+How Programming Works
+Step 1: Problem Identification
+
+Understand the problem to solve.
+
+Example:
+Calculate the sum of two numbers.
+
+Step 2: Algorithm Design
+
+Create a step-by-step solution.
+
+Input first number.
+Input second number.
+Add both numbers.
+Display result.
+Step 3: Write Code
+
+Convert the algorithm into a programming language.
+
+Step 4: Execute Program
+
+The computer runs the code and produces output.
+
+Basic Programming Concepts
+1. Variables
+
+Variables store data.
+
+name = "Siddharth"
+age = 20
+2. Data Types
+Data Type	Example
+Integer	10
+Float	3.14
+String	"Hello"
+Boolean	True, False
+
+Example:
+
+x = 10
+y = 3.5
+name = "John"
+status = True
+3. Input and Output
+name = input("Enter your name: ")
+print("Hello", name)
+
+Output:
+
+Hello Siddharth
+4. Operators
+Arithmetic Operators
+a = 10
+b = 5
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+5. Conditional Statements
+
+Used to make decisions.
+
+age = 18
+
+if age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible")
+6. Loops
+
+Used to repeat tasks.
+
+For Loop
+for i in range(5):
+    print(i)
+
+Output:
+
+0
+1
+2
+3
+4
+While Loop
+count = 1
+
+while count <= 5:
+    print(count)
+    count += 1
+7. Functions
+
+Functions help reuse code.
+
+def greet():
+    print("Welcome")
+
+greet()
+
+Function with parameters:
+
+def add(a, b):
+    return a + b
+
+result = add(10, 20)
+print(result)
+8. Arrays / Lists
+
+Store multiple values.
+
+fruits = ["Apple", "Banana", "Mango"]
+
+print(fruits[0])
+
+Output:
+
+Apple
+9. Object-Oriented Programming (OOP)
+
+OOP organizes code using objects and classes.
+
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+    def display(self):
+        print(self.name)
+
+s = Student("Siddharth")
+s.display()
+Popular Programming Languages
+4
+Language	Uses
+Python	AI, Data Science, Web Development
+Java	Enterprise Applications, Android
+C	System Programming
+C++	Games, High Performance Software
+JavaScript	Web Development
+C#	Desktop Apps, Games
+PHP	Web Development
+Programming Paradigms
+Procedural Programming
+Object-Oriented Programming (OOP)
+Functional Programming
+Event-Driven Programming
+Logic Programming
+Skills Needed for Programming
+Logical Thinking
+Problem Solving
+Mathematics Basics
+Debugging
+Communication
+Teamwork
+Career Opportunities
+Software Developer
+Web Developer
+Mobile App Developer
+Data Scientist
+AI Engineer
+Machine Learning Engineer
+Cybersecurity Analyst
+Cloud Engineer
+Simple Python Program
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+sum = num1 + num2
+
+print("Sum =", sum)
+Sample Output
+Enter first number: 10
+Enter second number: 20
+Sum = 30
+
+Programming is essentially using logic and code to solve problems and build software that computers can execute. Learning programming starts with understanding variables, conditions, loops, functions, and data structures, then gradually moving to advanced topics like OOP, databases, web development, AI, and system design.
